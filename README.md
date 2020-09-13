@@ -24,7 +24,7 @@ En el ejemplo:
 ## Entrada
 PAra crear un nuevo componente, con el boton derecho del raton en la carpeta app -> menu:Angular Generator -> component. LE damos el nombre ***product-alerts***. Se generan tres archivos:
 * product-alerts.component.ts:
->
+> @Component()
 * product-alerts.component.html
 * product-alerts.component.css
 
