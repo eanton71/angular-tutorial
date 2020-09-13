@@ -22,4 +22,9 @@ En el ejemplo:
 * app-top-bar: (arriba) nombre de la tienda y el botón de pago.
 * app-product-list: (abajo) lista de productos que se muestra iterativamente.
 ## Entrada
-PAra crear un nuevo componente, con el boton derecho del raton en la carpeta app -> menu:Angular Generator -> component. LE damos el nombre ***product-alerts***
+PAra crear un nuevo componente, con el boton derecho del raton en la carpeta app -> menu:Angular Generator -> component. LE damos el nombre ***product-alerts***. Se generan tres archivos:
+* product-alerts.component.ts:
+>
+* product-alerts.component.html
+* product-alerts.component.css
+
