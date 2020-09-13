@@ -13,3 +13,7 @@ Para crearlo desde StackBlitz accder al enlace: https://angular.io/generated/liv
 * Enlace de eventos ( ) 
 
 ## Componentes
+Son partes reutilizables dentro de la interfaz de ususario. Constan de:
+* Clase de Componente
+* Plantilla html
+* Hoja de estilos CSS
